@@ -3,7 +3,7 @@
 function getDBConnection() {
     // mysql://b1c87726155360:715e7895@us-cdbr-iron-east-04.cleardb.net/heroku_973dda0b7285aeb?reconnect=true
     //C9 db info
-    $host = "us-cdbr-iron-east-05.cleardb.net";
+    $host = "us-cdbr-iron-east-04.cleardb.net";
     $dbName = "heroku_973dda0b7285aeb";
     $username = "b1c87726155360";
     $password = "715e7895";
